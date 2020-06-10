@@ -8,4 +8,4 @@
 | Label | Prediction |Probability |
 | --- | --- | --- |
 | Not Healthy | Healthy | 75.07% |
-| Not Healthy | Healthy | 83.59% |
+| Not Healthy | Not Healthy | 83.59% |
