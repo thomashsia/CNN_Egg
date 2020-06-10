@@ -14,4 +14,4 @@
 
 ### Download Pre-trained Model
 
-### Dowdload Datasets
+### Download Datasets
