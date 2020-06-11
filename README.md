@@ -12,9 +12,11 @@
 
 ## Get Started
 
-### Download Pre-trained Model
 - `git clone https://github.com/thomashsia/CNN_Egg.git CNN_Egg`
-- Download file `download_pretrained_model.sh`
-- Open Terminal, type `bash download_pretrained_model.sh`
+
+### Download Pre-trained Model
+- Open Terminal
+- `cd CNN_Egg`
+- `bash download_pretrained_model.sh`
 
 ### Download Datasets
