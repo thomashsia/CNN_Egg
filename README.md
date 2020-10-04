@@ -1,8 +1,5 @@
 # CNN_Egg
 
-<p align="center">
-  <img src="https://github.com/thomashsia/CNN_Egg/blob/master/Interface.png" width="450" title="Interface">
-</p>
 
 ## Results
 | Label | Prediction |Probability |
@@ -21,5 +18,11 @@
 - Move model file to `Model`.
 
 ### Run the programme
-`python CNN_Egg_V1.0.py`
+- `python CNN_Egg_V1.0.py`
 
+<p align="center">
+  <img src="https://github.com/thomashsia/CNN_Egg/blob/master/Interface.png" width="450" title="Interface">
+</p>
+
+- Click `Select Directory` to choose the folder contains test images;
+- Then click `Start`.
