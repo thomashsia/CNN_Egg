@@ -12,11 +12,14 @@
 
 ## Get Started
 
+### Clone the repo
 - `git clone https://github.com/thomashsia/CNN_Egg.git CNN_Egg`
 
 ### Download Pre-trained Model
-- Open Terminal
-- `cd CNN_Egg`
-- `bash download_pretrained_model.sh`
+- [GoogleDrive](https://drive.google.com/file/d/1HcSIMqH3UyFiDMxemdVYtxQV3jF9CPCo/view?usp=sharing)
+- create directory `Model`;
+- Move model file to `Model`.
 
-### Download Datasets
+### Run the programme
+`python CNN_Egg_V1.0.py`
+
