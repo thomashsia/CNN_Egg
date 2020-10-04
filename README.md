@@ -18,7 +18,7 @@
 - Move model file to `Model`.
 
 ### Prepare test images
-- Create directory `Images`;
+- Create directory `Images` and move test images in it;
 
 ### Run the programme
 - `python CNN_Egg_V1.0.py`
