@@ -14,8 +14,11 @@
 
 ### Download Pre-trained Model
 - [GoogleDrive](https://drive.google.com/file/d/1HcSIMqH3UyFiDMxemdVYtxQV3jF9CPCo/view?usp=sharing)
-- create directory `Model`;
+- Create directory `Model`;
 - Move model file to `Model`.
+
+### Prepare test images
+- Create directory `Images`;
 
 ### Run the programme
 - `python CNN_Egg_V1.0.py`
